@@ -1,0 +1,6 @@
+<ImageView
+    android:src="@drawable/patio"
+    android:layout_width="300dp"
+    android:layout_height="200dp"
+    android:scaleType="centerCrop"
+    android:gravity="center"/>
