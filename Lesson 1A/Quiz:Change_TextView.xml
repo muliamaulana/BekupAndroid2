@@ -1,0 +1,8 @@
+<TextView
+    android:text="Happy Birthday, Mulia!"
+    android:textSize="50sp"
+    android:textColor="@android:color/white"
+    android:background="#F44336"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
